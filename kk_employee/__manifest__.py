@@ -1,6 +1,8 @@
 {
-    'name': 'Employee Test',
+    'name': 'KK Employee Test',
     'version': '18.0.0.0.1',
+    'author': 'KK Odoo',
+    'maintainer': 'KK Odoo',
     'category': 'Tutorial',
     'description': """KK Employee Module Test""",
     'summary': """KK Employee Module Test""",
