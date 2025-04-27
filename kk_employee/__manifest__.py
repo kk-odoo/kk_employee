@@ -2,8 +2,8 @@
     'name': 'Employee Test',
     'version': '18.0.0.0.1',
     'category': 'Tutorial',
-    'description': """KO Employee Module""",
-    'summary': """KO Employee Module""",
+    'description': """KK Employee Module Test""",
+    'summary': """KK Employee Module Test""",
     'data': [
         'security/ir.model.access.csv',
         'views/kk_employee.xml',
